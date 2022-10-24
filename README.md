@@ -2,9 +2,17 @@
 The app that gauges your adeptness and overall financial stability in the establishment of residual income. 
 
 Team Name: Mamba-3rd Gen
-Team Members: Michael A. Wall (Scrum Master, Developer, Sprint Planner)
+
+
+Team Members: 
+Michael A. Wall (Scrum Master, Sprint Planner)
+
+John Dickinson (Developer, Sprint Planner)
+
+
 Stake Holders: 
 
+Terrell Skinner
 
 Resi-Fit “Where U Hustle for Your Last Name”
 The app that gauges your adeptness and overall financial stability in the establishment of residual income. In the words of the Late “Nipsey Hustle”, “You aren’t on a real bag if it isn’t Mailbox money’! Our App fills in the gap through gauging their financial literacy and their ability to allocate small amounts of money towards assets that provide monthly, quarterly, and annual dividend payments. Our target audience is people between the ages of 16-65, no one is too young or too old to learn how to develop residual income for themselves or for their families. 
