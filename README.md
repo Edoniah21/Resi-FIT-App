@@ -29,7 +29,12 @@ It is estimated we will have nearly 1000 participants or greater prior to actual
 Version 1.0 is focused upon ease of use, timely and accurate information from external financial sources (i.e. Tradingview, Yahoo Finance) internal Income calculators to accurately gauge the finance sectors economically suitable for our clients. Regardless of their economic status our app will provide focused outlines of target achievable investment opportunities and provide continuous tracking of our client’s goals through metrics-based outputs. These will be provided internally within the app. 
 
 Stakeholder User Stories
+
+
 Terrell Skinner: Executive Director and Founder of The Skinner Foundation
+
 https://www.houseofskinnercorp.org/
+
+
 He is owner of a Non-Profit seeking to expand upon teaching financial literacy. His organization is presently working with the Pinnellas County School district to bring a financial literacy program to its students. He is also a US Army Veteran who recognizes the importance of this information and its impact for service members, and the rigors of the lifestyle. 
 Needs:  
