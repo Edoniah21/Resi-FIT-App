@@ -37,4 +37,78 @@ https://www.houseofskinnercorp.org/
 
 
 He is owner of a Non-Profit seeking to expand upon teaching financial literacy. His organization is presently working with the Pinnellas County School district to bring a financial literacy program to its students. He is also a US Army Veteran who recognizes the importance of this information and its impact for service members, and the rigors of the lifestyle. 
+
+
 Needs:  
+
+-	Classes on how to read the market. Present different options for long term investment other than 401k 
+
+
+-	Some kind of protection plan in case the market ain’t doing well. At that SES level folks are more concerned about how to survive. 
+
+
+-	Understanding finances is the first pillar, this can be done through the app by just simple giving the a financial construct on how they should budget. Letting them adjust as appropriate while also giving explanations as to why something is a good idea vs a bad idea (obviously based on their income) I think the podcasting would work well with familiar faces that look like them endorsing the app that will also help with buy in.
+
+
+-	Access to reading material that will break down different strategies (also a glossary with words I should know) (Definitely a High Priority, easy dictionary development/function)
+
+
+-	Access to be able to have live chats with advisors. (Based upon API connectivity – Medium Priority – May require additional Resources)
+
+Stakeholder 2 User Story: 
+CW3 Jermain Marcus
+
+
+US Army
+
+
+Mr. Marcus is a guiding light in the US Army Warrant Officer community, operating within a technical atmosphere influencing the mindset and operational readiness of our soldiers in the Ordinance & Logistics Corp. Entering the US Army at the age of 22, surrounded by exceptional leaders he learned budgeting and investing where key to his financial stability being a career soldier. 
+
+
+Needs: 
+
+
+-	An app that can teach soldiers terminology in a simplistic manner and breaks down effective strategies of investing that educate through active participation. (Dictionary capability, budget calculator, burn – down chart depicting effective tract of reaching financial goal)
+
+
+-	Access to be able to have live chats with advisors. (Based upon API connectivity – Medium Priority – May require additional Resources)
+
+
+-	Maybe a weekly podcast (you bring on different people you learned from) as another resource for folks who aren’t big readers to listen. (Long-term initiative w/ strong implementation capability), Low to medium priority for development
+
+
+-	Access to my money at anytime.  (Requires linking of financial information – Long term initiative – Low Priority for Implementation)
+
+
+Stake Holder User Story 3:
+
+
+Inky Matthews
+
+
+College Student at The University of Alabama
+
+
+A Science and Technology major, working towards opening her own Mechanical Bio-Science business; has always wanted a greater and more detailed explanation toward investing. While there are a number of venues she’s been approached by, she has yet to find one that truly educates its users in simplistic fashion. College students have minimal capital to work with, and an extreme tool toward paying off student loans faster can be executed through investing. Investing is how she was able to shift the financial outlook and opinion of members within her family. 
+
+
+Needs:
+
+
+-	An app that finds enables students to find the sweet spot for folks to thrive while working through renewing their mind not just in literacy but how to structure their finances.
+
+
+-	Some kind of protection plan in case the market isn’t doing well. (A lack of financial acumen raises this concern, an app that teaches students how to hedge against market decline. 
+
+
+-	Quarterly newsletter about different tips and how informative maybe a weekly podcast can be influential in their growth and educational experience (you bring on different people you learned from) as another resource for folks who aren’t big readers to listen.
+
+
+-	Long Term: Incentives to invest more money I.e., if I invest x amount I will get a credit to buy more stock. 
+
+
+-	An app with a strong social media recognition, cultural relativity and something that centralizes itself around college life and working towards our future goals. A social culture that fosters a dream building environment. 
+
+
+
+
