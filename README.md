@@ -110,5 +110,35 @@ Needs:
 -	An app with a strong social media recognition, cultural relativity and something that centralizes itself around college life and working towards our future goals. A social culture that fosters a dream building environment. 
 
 
+Product Backlog
 
+
+-	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal
+
+
+-	Glossary of Strategy references focused on potential market downturn
+
+
+-	Investment Budget Calculator
+
+
+-	Goal Burn Down Chart
+
+
+-	Link or repository for educational material for top educational career paths or High Value Skills
+
+
+-	Link to financial podcast covering various industries in market
+
+
+-	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks
+
+
+-	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative)
+
+
+-	A Weekly Podcast (Different people learned from) another resource that people who aren’t big readers. 
+
+
+-	Access to be able to have live chats with advisors (Long-Term Objective)
 
