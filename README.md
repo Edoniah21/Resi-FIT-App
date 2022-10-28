@@ -112,37 +112,46 @@ Needs:
 
 Product Backlog
 
+- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 1 story point
 
--	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal
-
-
--	Glossary of Strategy references focused on potential market downturn
+-	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 
 
--	Investment Budget Calculator
+-	Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
 
 
--	Goal Burn Down Chart
+-	Investment Budget Calculator - 1 week - 5 story points
 
 
--	Link or repository for educational material for top educational career paths or High Value Skills
+-	Goal Burn Down Chart - 1 week - 5 story points
 
 
--	Link to financial podcast covering various industries in market
+-	Link or repository for educational material for top educational career paths or High Value Skills - 1 day - 1 story point
 
 
--	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks
+-	Link to financial podcast covering various industries in market - 1 day - 1 story point
 
 
--	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative)
+-	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks - 3 days - 3 story points
 
 
--	A Weekly Podcast (Different people learned from) another resource that people who aren’t big readers. 
+-	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative) - 1 Year+ - 25 story points
 
 
--	Access to be able to have live chats with advisors (Long-Term Objective)
+-	A Weekly Podcast (Different people learned from) another resource that people who aren’t big readers. - I think this is a duplicate of the above.
+
+
+-	Access to be able to have live chats with advisors (Long-Term Objective) - 1 Year - 25 story points
 
 Product Backlog User Stories
 
+- As a user, there should be a website I can visit that will have various tools promoting finacial education.
 - As a user, I want to be able to click on links that lead me to trustworthy and educational financial materials.
 - As a user, I want to have access to different strategies I can use to protect my money in a financial downturn.
+- As a user, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
+- As a user, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
+- As a user, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
+- As a user, I should have access to different podcasts with varying cadences to help expand my financial knowledge base.
+- As a user, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
+- As an entity, the website/application shoudl have a strong social media presence and cultural relativity.
+- As a website, the site should have integration with financial advisors and should make contacting a financial advisor simple and straight forward.
