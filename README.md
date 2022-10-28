@@ -144,3 +144,5 @@ Product Backlog
 
 Product Backlog User Stories
 
+- As a user, I want to be able to click on links that lead me to trustworthy and educational financial materials.
+- As a user, I want to have access to different strategies I can use to protect my money in a financial downturn.
