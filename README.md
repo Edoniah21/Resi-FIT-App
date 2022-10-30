@@ -155,3 +155,21 @@ Product Backlog User Stories
 - As a user, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
 - As an entity, the website/application shoudl have a strong social media presence and cultural relativity.
 - As a website, the site should have integration with financial advisors and should make contacting a financial advisor simple and straight forward.
+
+Definition of Ready: User Acceptance Criteria
+
+
+-	Clear definition and understanding of user needs and estimated outcomes
+
+-	Appropriate team members aligned with projected goals
+
+-	Passion for the proposed project outcome
+
+-	Required Skill set to build the designated project
+
+-	Clear project outline and defined estimated outcomes
+
+-	Refined user acceptance criteria toward version 1.0 and future upcoming updates
+
+-	Appropriately estimated project long-term goals
+
