@@ -67,17 +67,18 @@ Needs:
 -	An app with a strong social media recognition, cultural relativity and something that centralizes itself around college life and working towards our future goals. A social culture that fosters a dream building environment. 
 
 
-Product Backlog
+Product Backlog (Ordered)
+Rationale - the backlog has been ordred, for the most, according to most essential application functionality to have a minimum functioning product. Only the developers took part in estimating the time to complete the items. Whole team relative size estimating was also done to help gauge the difficulty of each item in relation to one another. 
 - Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 1 story point
 -	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 -	Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
--	Investment Budget Calculator - 1 week - 5 story points
--	Goal Burn Down Chart - 1 week - 5 story points
 -	Link or repository for educational material for top educational career paths or High Value Skills - 1 day - 1 story point
 -	Link to financial podcast covering various industries in market - 1 day - 1 story point
+-	Investment Budget Calculator - 1 week - 5 story points
+-	Goal Burn Down Chart - 1 week - 5 story points
 -	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks - 3 days - 3 story points
--	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative) - 1 Year+ - 25 story points
 -	Access to be able to have live chats with advisors (Long-Term Objective) - 1 Year - 25 story points
+-	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative) - 1 Year+ - 25 story points
 
 
 Product Backlog User Stories
