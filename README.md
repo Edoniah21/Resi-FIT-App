@@ -102,4 +102,5 @@ Definition of Ready: User Acceptance Criteria
 -	Clear project outline and defined estimated outcomes
 -	Refined user acceptance criteria toward version 1.0 and future upcoming updates
 -	Appropriately estimated project long-term goals
+-	Estimated total story points: 68
 
