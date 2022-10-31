@@ -69,6 +69,12 @@ Needs:
 
 Product Backlog (Ordered)
 Rationale - the backlog has been ordred, for the most, according to most essential application functionality to have a minimum functioning product. Only the developers took part in estimating the time to complete the items. Whole team relative size estimating was also done to help gauge the difficulty of each item in relation to one another. 
+
+Below is a link to our backlog but you will not be able to access it unless we approve you as a user. Thus, we've put a sample of the backlog here to give an idea of what we're working on.
+
+Link:
+https://team-resi-fit.youtrack.cloud/agiles/131-2/current
+
 - Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 1 story point
 -	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 -	Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
