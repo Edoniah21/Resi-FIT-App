@@ -67,6 +67,8 @@ Inky Matthews
 
 
 College Student at The University of Alabama
+
+
 A Science and Technology major, working towards opening her own Mechanical Bio-Science business; has always wanted a greater and more detailed explanation toward investing. While there are a number of venues she’s been approached by, she has yet to find one that truly educates its users in simplistic fashion. College students have minimal capital to work with, and an extreme tool toward paying off student loans faster can be executed through investing. Investing is how she was able to shift the financial outlook and opinion of members within her family. 
 
 Needs:
