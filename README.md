@@ -81,7 +81,7 @@ Needs:
 
 Product Backlog (Ordered)
 
-Rationale - the backlog has been ordred, for the most, according to most essential application functionality to have a minimum functioning product. Only the developers took part in estimating the time to complete the items. Whole team relative size estimating was also done to help gauge the difficulty of each item in relation to another by using the Affinitiy Method of relative sizing. 
+Rationale - the backlog has been ordred, for the most, according to most essential application functionality to have a minimum functioning product. Only the developers took part in estimating the time to complete the PBIs. Whole team relative size estimating was also done to help gauge the difficulty of each item in relation to another by using the Affinitiy Method of relative sizing. 
 
 Below is a link to our backlog but you will not be able to access it unless we approve you as a user. Thus, we've put a sample of the backlog here to give an idea of what we're working on.
 
