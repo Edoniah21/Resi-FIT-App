@@ -89,15 +89,15 @@ https://team-resi-fit.youtrack.cloud/agiles/131-2/current
 
 
 Product Backlog User Stories
-- As a user, there should be a website I can visit that will have various tools promoting finacial education.
-- As a user, I want to be able to click on links that lead me to trustworthy and educational financial materials.
-- As a user, I want to have access to different strategies I can use to protect my money in a financial downturn.
-- As a user, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
-- As a user, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
-- As a user, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
-- As a user, I should have access to different podcasts with varying cadences to help expand my financial knowledge base.
-- As a user, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
-- As an entity, the website/application shoudl have a strong social media presence and cultural relativity.
+- As a service member/student, there should be a website I can visit that will have various tools promoting finacial education.
+- As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials.
+- As an Educator, I want to have access to different strategies a service member/student can use to protect my money in a financial downturn in a simplistic teachable format.
+- As a a service member/student, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
+- As a a service member/student, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
+- As a a service member/student, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
+- As a a service member/student, I should have access to different podcasts with varying cadences to help expand my financial knowledge base.
+- As a a service member/student, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
+- As an Non-Profit Organization, the website/application should have a strong social media presence and cultural relativity.
 - As a website, the site should have integration with financial advisors and should make contacting a financial advisor simple and straight forward.
 
 
