@@ -43,8 +43,14 @@ Needs:
 
 
 Stakeholder 2 User Story: 
+
+
 CW3 Jermain Marcus
+
+
 US Army
+
+
 Mr. Marcus is a guiding light in the US Army Warrant Officer community, operating within a technical atmosphere influencing the mindset and operational readiness of our soldiers in the Ordinance & Logistics Corp. Entering the US Army at the age of 22, surrounded by exceptional leaders he learned budgeting and investing where key to his financial stability being a career soldier. 
 
 Needs: 
@@ -55,7 +61,11 @@ Needs:
 
 
 Stake Holder User Story 3:
+
+
 Inky Matthews
+
+
 College Student at The University of Alabama
 A Science and Technology major, working towards opening her own Mechanical Bio-Science business; has always wanted a greater and more detailed explanation toward investing. While there are a number of venues she’s been approached by, she has yet to find one that truly educates its users in simplistic fashion. College students have minimal capital to work with, and an extreme tool toward paying off student loans faster can be executed through investing. Investing is how she was able to shift the financial outlook and opinion of members within her family. 
 
