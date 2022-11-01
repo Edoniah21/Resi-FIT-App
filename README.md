@@ -91,7 +91,7 @@ https://team-resi-fit.youtrack.cloud/agiles/131-2/current
 Product Backlog User Stories
 - As a service member/student, there should be a website I can visit that will have various tools promoting finacial education.
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials.
-- As an Educator, I want to have access to different strategies a service member/student can use to protect my money in a financial downturn in a simplistic teachable format.
+- As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format.
 - As a a service member/student, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
 - As a a service member/student, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
 - As a a service member/student, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
