@@ -138,8 +138,8 @@ Rationale - Using what we learned from class, we know that humans tend to be ove
 	- Developer Task
 	Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
 - Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
-	-Developer Task
+	- Developer Task
 	Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
 - Link or repository for educational material 1 day - 1 story point
-	-Developer Task
+	- Developer Task
 	Create a section on the resources page that will have links to this broader category of information.
