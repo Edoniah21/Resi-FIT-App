@@ -132,8 +132,9 @@ Rationale - Using what we learned from class, we know that humans tend to be ove
 
 - Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 2 story points
 	- Developer Tasks
-	Launch new website using Wix
-	Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
+		- Launch new website using Wix
+		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
+		- Add information to website from Github README to flesh out website
 - Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 	- Developer Task
 	Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
