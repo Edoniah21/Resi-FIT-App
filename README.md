@@ -123,3 +123,14 @@ Definition of Ready: User Acceptance Criteria
 -	Appropriately estimated project long-term goals
 -	Estimated total story points: 68
 
+
+
+SPRINT 1
+
+Number of Story Points to Be Completed - 3
+
+- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 1 story point
+- 
+-	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
+-	
+-	Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
