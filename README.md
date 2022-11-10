@@ -137,12 +137,39 @@ Rationale - Using what we learned from class, we know that humans tend to be ove
 		- Add information to website from Github README to flesh out website
 - Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 	- Developer Task
-	Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
+		-Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
 - Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
 	- Developer Task
-	Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
+		-Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
 - Link or repository for educational material 1 day - 1 story point
 	- Developer Task
-	Create a section on the resources page that will have links to this broader category of information.
+		-Create a section on the resources page that will have links to this broader category of information.
 	
 	
+Daily Scrum #2 - 11/9/2022
+Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):
+	- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 2 story points
+		- Developer Tasks
+			- Launch new website using Wix - Completed by Mike
+			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - Completed by Mike and John
+			- Add information to website from Github README to flesh out website - Completed by Mike
+		
+	- Link or repository for educational material 1 day - 1 story point
+		- Developer Task
+			-Create a section on the resources page that will have links to this broader category of information. - Completed by John
+			
+Questions Answered in Scrum:
+	- Do you see any impediment that prevents the Developers from meeting the Sprint Goal? 
+		- Testing this website is going to be a little bit cumbersome. We need to figure out whether we should use Selenium which contains a lot more overhead or work with the requests library that is not as robust but lighter weight.
+		- Credbility and consistency of information across our linked sources
+	- What are the impediments? 
+		- Functionality of unittest testing library with the website.
+		- Infromation from our various sources could be misleading, false, inaccurate or inconsistent.
+	- What is your impediment removal plan?
+		- We can start with the requests library in Python and ensure that all the webpages return a success of 200. If the functionality of the requests library seems sufficient, we can continue to work with this library. Otherwise, we can pivot to Selenium which will have some requirements for others attempting to run the tests outside our group but will give us more robust testing functionilty.
+		- We will need to vette our sources and the consitency of the information we are linking to our site on an ongoing basis via the daily scrum and other methods. As the site grows, we can devise a more automated / efficient way to validate the sources on a large scale.
+	
+
+Unit Tests
+The unit tests thus far pimarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
+Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task.
