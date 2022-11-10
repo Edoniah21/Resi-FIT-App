@@ -88,16 +88,16 @@ Below is a link to our backlog but you will not be able to access it unless we a
 Link:
 https://team-resi-fit.youtrack.cloud/agiles/131-2/current
 
-- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 1 story point
--	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
--	Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
--	Link or repository for educational material for top educational career paths or High Value Skills - 1 day - 1 story point
--	Link to financial podcast covering various industries in market - 1 day - 1 story point
--	Investment Budget Calculator - 1 week - 5 story points
--	Goal Burn Down Chart - 1 week - 5 story points
--	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks - 3 days - 3 story points
--	Access to be able to have live chats with advisors (Long-Term Objective) - 1 Year - 25 story points
--	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative) - 1 Year+ - 25 story points
+- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 story point
+-	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 story point
+-	Glossary of Strategy references focused on potential market downturn - 1 story point
+-	Link or repository for educational material for top educational career paths or High Value Skills - 1 story point
+-	Link to financial podcast covering various industries in market - 1 story point
+-	Investment Budget Calculator - 5 story points
+-	Goal Burn Down Chart - 5 story points
+-	Breakdown of benefits of investing monthly, quarterly, or annual dividend stocks - 3 story points
+-	Access to be able to have live chats with advisors (Long-Term Objective) - 25 story points
+-	App w/ strong social media recognition, cultural relativity (Marketing Initiative) (Long-term initiative) - 25 story points
 
 
 Product Backlog User Stories
@@ -130,31 +130,31 @@ SPRINT 1
 Forecast Number of Story Points to Be Completed - 5
 Rationale - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. *Only developers participated in the sprint planning.
 
-- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 2 story points
+- Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
 	- Developer Tasks
 		- Launch new website using Wix
 		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
 		- Add information to website from Github README to flesh out website
-- Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
+- Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
-- Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
+- Glossary of Strategy references focused on potential market downturn - 1 story point
 	- Developer Task
 		- Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
-- Link or repository for educational material 1 day - 1 story point
+- Link or repository for educational material - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information.
 	
 	
 Daily Scrum #2 - 11/9/2022
 Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):
-	- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 day - 2 story points
+	- Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
 		- Developer Tasks
 			- Launch new website using Wix - Completed by Mike
 			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - Completed by Mike and John
 			- Add information to website from Github README to flesh out website - Completed by Mike
 		
-	- Link or repository for educational material 1 day - 1 story point
+	- Link or repository for educational material - 1 story point
 		- Developer Task
 			-Create a section on the resources page that will have links to this broader category of information. - Completed by John
 			
