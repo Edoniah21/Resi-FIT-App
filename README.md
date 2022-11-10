@@ -144,3 +144,5 @@ Rationale - Using what we learned from class, we know that humans tend to be ove
 - Link or repository for educational material 1 day - 1 story point
 	- Developer Task
 	Create a section on the resources page that will have links to this broader category of information.
+	
+	
