@@ -169,6 +169,16 @@ Questions Answered in Scrum:
 		- We can start with the requests library in Python and ensure that all the webpages return a success of 200. If the functionality of the requests library seems sufficient, we can continue to work with this library. Otherwise, we can pivot to Selenium which will have some requirements for others attempting to run the tests outside our group but will give us more robust testing functionilty.
 		- We will need to vette our sources and the consitency of the information we are linking to our site on an ongoing basis via the daily scrum and other methods. As the site grows, we can devise a more automated / efficient way to validate the sources on a large scale.
 	
+Next 24 Hours for the Sprint:
+	- Mike
+		- Kanban Board
+		- Sprint Burndown Chart
+		- Schedule Stakeholder for Sunday
+	- John
+		- Add links to more strategies
+		- Add images to readme of Pair Programming
+		- Add links to resources explaining how to meet financial goals
+		- Investigate more robust unit tests
 
 Unit Tests
 The unit tests thus far pimarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
