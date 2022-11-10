@@ -137,13 +137,13 @@ Rationale - Using what we learned from class, we know that humans tend to be ove
 		- Add information to website from Github README to flesh out website
 - Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 day - 1 story point
 	- Developer Task
-		-Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
+		- Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
 - Glossary of Strategy references focused on potential market downturn - 1 day - 1 story point
 	- Developer Task
-		-Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
+		- Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
 - Link or repository for educational material 1 day - 1 story point
 	- Developer Task
-		-Create a section on the resources page that will have links to this broader category of information.
+		- Create a section on the resources page that will have links to this broader category of information.
 	
 	
 Daily Scrum #2 - 11/9/2022
