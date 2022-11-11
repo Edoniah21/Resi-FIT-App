@@ -146,7 +146,22 @@ Definition of Ready: User Acceptance Criteria
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information.
-	
+		
+## Kanban Board Link:
+TODO: need a link to the Kanban board and also need to add the developer tasks to the product backlog
+**Sprint Kanban Board Link:**
+<a href="https://team-resi-fit.youtrack.cloud/agiles/131-2/132-4?chart&settings&tab=chart">Kanban!</a>
+
+**Sample Image of Kanban Board:**
+![image](https://user-images.githubusercontent.com/43096506/201398887-7df7fe86-33af-45d3-a7dd-689dcc55dca5.png)
+
+
+## Progression of Sprint Burndown Chart
+Burndown Chart as of 11/11/2022:
+![image](https://user-images.githubusercontent.com/43096506/201398323-de75a155-17f3-4e72-b1eb-929637839cf9.png)
+
+Burndown Chart on 11/11/2022 After Marking Completed Items
+TODO
 	
 ## Daily Scrum #2 - 11/9/2022
 **Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
@@ -184,11 +199,10 @@ Definition of Ready: User Acceptance Criteria
 
 ## Unit Tests and Pair Programming
 The unit tests thus far primarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
-Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task.
+Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the resifit_unittests.py file in our repo and we have included the output of our tests passing successfully below as well.
+TODO: add pair programming screenshot
+TODO: add screenshot of tests passing
 
-
-## Progression of Sprint Burndown Chart
-TODO
 
 ## Product Increment Which is Working Software!
 The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
@@ -197,4 +211,6 @@ The website is up and running and can be found by clicking the below link. Pleas
 
 Screenshot of Site Homepage:
 ![image](https://user-images.githubusercontent.com/43096506/201391883-5bafeca4-d271-4e39-8464-2c6e05c4b920.png)
+
+## 
 
