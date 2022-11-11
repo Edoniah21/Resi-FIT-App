@@ -219,7 +219,9 @@ Screenshot of Site Homepage:
 ## Sprint Review
 
 **TODO Conduct Sprint Review
+
 **TODO Ensure stake holder attends
+
 **TODO Revise product backlog based on stakeholder feedback
 
 ## Sprint Retrospective
