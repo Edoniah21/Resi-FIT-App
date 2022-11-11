@@ -88,7 +88,7 @@ Below is a link to our backlog but you will not be able to access it unless we a
 Link:
 https://team-resi-fit.youtrack.cloud/agiles/131-2/current
 
-- Create a shell front end that will mostly serve as a placeholder for future functionality - 1 story point
+-	Create a shell front end that will mostly serve as a placeholder for future functionality - 1 story point
 -	Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 story point
 -	Glossary of Strategy references focused on potential market downturn - 1 story point
 -	Link or repository for educational material for top educational career paths or High Value Skills - 1 story point
@@ -101,7 +101,7 @@ https://team-resi-fit.youtrack.cloud/agiles/131-2/current
 
 
 Product Backlog User Stories
-- As a service member/student, there should be a website I can visit that will have various tools promoting finacial education.
+- As a service member/student, there should be a website I can visit that will have various sources of financial information and documents.
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials.
 - As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format.
 - As a a service member/student, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
@@ -132,48 +132,54 @@ Definition of Ready: User Acceptance Criteria
 **Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. **Only developers participated in the sprint planning.**
 
 **Backlog Items for the Sprint**
-- Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
+- As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
 	- Developer Tasks
-		- Launch new website using Wix
-		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
-		- Add information to website from Github README to flesh out website
-- As a service member/student, there should be a website I can visit that will have various tools promoting finacial education - 1 story point
-	- Developer Task
-		- Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
+		- Create a shell front end that will mostly serve as a placeholder for future functionality
+			- Launch new website using Wix
+			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
+			- Add information to website from Github README to flesh out website
+		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources".  Ensure the links are working.
 - As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format. - 1 story point
 	- Developer Task
-		- Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
+		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies.
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
-		- Create a section on the resources page that will have links to this broader category of information.
+		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources".
 		
 ## Kanban Board Link:
-TODO: need a link to the Kanban board and also need to add the developer tasks to the product backlog
 **Sprint Kanban Board Link:**
 <a href="https://team-resi-fit.youtrack.cloud/agiles/131-2/132-4?chart&settings&tab=chart">Kanban!</a>
 
 **Sample Image of Kanban Board:**
 ![image](https://user-images.githubusercontent.com/43096506/201398887-7df7fe86-33af-45d3-a7dd-689dcc55dca5.png)
 
-
-## Progression of Sprint Burndown Chart
+## Sprint Burndown Chart
 Burndown Chart as of 11/11/2022:
 ![image](https://user-images.githubusercontent.com/43096506/201398323-de75a155-17f3-4e72-b1eb-929637839cf9.png)
-
-Burndown Chart on 11/11/2022 After Marking Completed Items
-TODO
 	
 ## Daily Scrum #2 - 11/9/2022
 **Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
-- Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
-	- Developer Tasks
-		- Launch new website using Wix - **Completed by Mike**
-		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John**
-		- Add information to website from Github README to flesh out website - **Completed by Mike**
+- As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
+	- Create a shell front end that will mostly serve as a placeholder for future functionality
+		- Developer Tasks
+			- Launch new website using Wix - **Completed by Mike**
+			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John**
+			- Add information to website from Github README to flesh out website - **Completed by Mike**
 		
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information. - **Completed by John**
+
+## Next 24 Hours for the Sprint:
+- Mike
+	- Kanban Board
+	- Sprint Burndown Chart
+	- Schedule Stakeholder for Sunday
+- John
+	- Add links to more strategies
+	- Add images to README for Pair Programming
+	- Add links to resources explaining how to meet financial goals
+	- Investigate more robust unit tests
 			
 ## Questions Answered in Scrum:
 - Do you see any impediment that prevents the Developers from meeting the Sprint Goal? 
@@ -185,24 +191,22 @@ TODO
 - What is your impediment removal plan?
 	- We can start with the requests library in Python and ensure that all the webpages return a success of 200. If the functionality of the requests library seems sufficient, we can continue to work with this library. Otherwise, we can pivot to Selenium which will have some requirements for others attempting to run the tests outside our group but will give us more robust testing functionilty.
 	- We will need to vette our sources and the consitency of the information we are linking to our site on an ongoing basis via the daily scrum and other methods. As the site grows, we can devise a more automated / efficient way to validate the sources on a large scale.
-	
-## Next 24 Hours for the Sprint:
-- Mike
-	- Kanban Board
-	- Sprint Burndown Chart
-	- Schedule Stakeholder for Sunday
-- John
-	- Add links to more strategies
-	- Add images to README for Pair Programming
-	- Add links to resources explaining how to meet financial goals
-	- Investigate more robust unit tests
+
+## Progression of Sprint Burndown Chart
+**Burndown Chart as of 11/11/2022:
+![image](https://user-images.githubusercontent.com/43096506/201398323-de75a155-17f3-4e72-b1eb-929637839cf9.png)
+
+**Burndown Chart as of 11/12/2022 After Updating for Done Activities:
+![image](https://user-images.githubusercontent.com/43096506/201410623-50e553cc-9a20-4e61-99a9-0619f91313c3.png)
+
 
 ## Unit Tests and Pair Programming
 The unit tests thus far primarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the resifit_unittests.py file in our repo and we have included the output of our tests passing successfully below as well.
-TODO: add pair programming screenshot
-TODO: add screenshot of tests passing
 
+**TODO: add pair programming screenshot
+
+**TODO: add screenshot of tests passing
 
 ## Product Increment Which is Working Software!
 The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
@@ -212,5 +216,20 @@ The website is up and running and can be found by clicking the below link. Pleas
 Screenshot of Site Homepage:
 ![image](https://user-images.githubusercontent.com/43096506/201391883-5bafeca4-d271-4e39-8464-2c6e05c4b920.png)
 
-## 
+## Sprint Review
+
+**TODO Conduct Sprint Review
+**TODO Ensure stake holder attends
+**TODO Revise product backlog based on stakeholder feedback
+
+## Sprint Retrospective
+-	Action that will make team siginifcantly better: more well defined user stories! Some user stories were too broad and too simliar to other user stories which made breaking them down and prioritizing them difficult. For the next sprint, we will be more specific in our user stories and ensure that developement tasks can be easily made out of them!
+-	New PBI - Ensure exisiting user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific
+		- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
+
+**TODO - ensure new PBI above is at the top of the PB
+
+**TODO - ensure all PBIs are true user stories
+
+
 
