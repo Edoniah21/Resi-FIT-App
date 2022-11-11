@@ -193,10 +193,10 @@ Burndown Chart as of 11/11/2022:
 	- We will need to vette our sources and the consitency of the information we are linking to our site on an ongoing basis via the daily scrum and other methods. As the site grows, we can devise a more automated / efficient way to validate the sources on a large scale.
 
 ## Progression of Sprint Burndown Chart
-**Burndown Chart as of 11/11/2022:
+**Burndown Chart as of 11/11/2022:**
 ![image](https://user-images.githubusercontent.com/43096506/201398323-de75a155-17f3-4e72-b1eb-929637839cf9.png)
 
-**Burndown Chart as of 11/12/2022 After Updating for Done Activities:
+**Burndown Chart as of 11/12/2022 After Updating for Done Activities:**
 ![image](https://user-images.githubusercontent.com/43096506/201410623-50e553cc-9a20-4e61-99a9-0619f91313c3.png)
 
 
@@ -204,9 +204,9 @@ Burndown Chart as of 11/11/2022:
 The unit tests thus far primarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the resifit_unittests.py file in our repo and we have included the output of our tests passing successfully below as well.
 
-**TODO: add pair programming screenshot
+**TODO: add pair programming screenshot**
 
-**TODO: add screenshot of tests passing
+**TODO: add screenshot of tests passing**
 
 ## Product Increment Which is Working Software!
 The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
@@ -218,20 +218,20 @@ Screenshot of Site Homepage:
 
 ## Sprint Review
 
-**TODO Conduct Sprint Review
+**TODO Conduct Sprint Review**
 
-**TODO Ensure stake holder attends
+**TODO Ensure stake holder attends**
 
-**TODO Revise product backlog based on stakeholder feedback
+**TODO Revise product backlog based on stakeholder feedback**
 
 ## Sprint Retrospective
 -	Action that will make team siginifcantly better: more well defined user stories! Some user stories were too broad and too simliar to other user stories which made breaking them down and prioritizing them difficult. For the next sprint, we will be more specific in our user stories and ensure that developement tasks can be easily made out of them!
 -	New PBI - Ensure exisiting user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific
 		- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
 
-**TODO - ensure new PBI above is at the top of the PB
+**TODO - ensure new PBI above is at the top of the PB**
 
-**TODO - ensure all PBIs are true user stories
+**TODO - ensure all PBIs are true user stories**
 
 
 
