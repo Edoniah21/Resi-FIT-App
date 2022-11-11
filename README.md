@@ -128,6 +128,7 @@ Definition of Ready: User Acceptance Criteria
 SPRINT 1
 
 Forecast Number of Story Points to Be Completed - 5
+
 Rationale - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. *Only developers participated in the sprint planning.
 
 - Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
@@ -156,7 +157,7 @@ Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):
 		
 	- Link or repository for educational material - 1 story point
 		- Developer Task
-			-Create a section on the resources page that will have links to this broader category of information. - Completed by John
+			- Create a section on the resources page that will have links to this broader category of information. - Completed by John
 			
 Questions Answered in Scrum:
 	- Do you see any impediment that prevents the Developers from meeting the Sprint Goal? 
@@ -164,7 +165,7 @@ Questions Answered in Scrum:
 		- Credbility and consistency of information across our linked sources
 	- What are the impediments? 
 		- Functionality of unittest testing library with the website.
-		- Infromation from our various sources could be misleading, false, inaccurate or inconsistent.
+		- Information from our various sources could be misleading, false, inaccurate or inconsistent.
 	- What is your impediment removal plan?
 		- We can start with the requests library in Python and ensure that all the webpages return a success of 200. If the functionality of the requests library seems sufficient, we can continue to work with this library. Otherwise, we can pivot to Selenium which will have some requirements for others attempting to run the tests outside our group but will give us more robust testing functionilty.
 		- We will need to vette our sources and the consitency of the information we are linking to our site on an ongoing basis via the daily scrum and other methods. As the site grows, we can devise a more automated / efficient way to validate the sources on a large scale.
