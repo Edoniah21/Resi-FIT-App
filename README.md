@@ -187,10 +187,13 @@ The unit tests thus far primarly consist of automated HTML requests to various p
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task.
 
 
-**Progression of Sprint Burndown Chart**
+## Progression of Sprint Burndown Chart
 TODO
 
-**Product Increment Which is Working Software!**
+## Product Increment Which is Working Software!
 The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
 
 <a href="https://jbddrexel.wixsite.com/resifit" target="_blank">RESI-FIT!</a>
+
+Screenshot of Site Homepage:
+ 
