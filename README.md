@@ -196,4 +196,5 @@ The website is up and running and can be found by clicking the below link. Pleas
 <a href="https://jbddrexel.wixsite.com/resifit" target="_blank">RESI-FIT!</a>
 
 Screenshot of Site Homepage:
- 
+ ![image](https://user-images.githubusercontent.com/43096506/201391667-2bba6ade-55db-45a8-972d-d0a447c8fd13.png)
+
