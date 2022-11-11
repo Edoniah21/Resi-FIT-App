@@ -129,7 +129,7 @@ Definition of Ready: User Acceptance Criteria
 
 **Forecast Number of Story Points to Be Completed - 5**
 
-**Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. *Only developers participated in the sprint planning.
+**Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. **Only developers participated in the sprint planning.**
 
 **Backlog Items for the Sprint**
 - Create a shell front end that will mostly serve as a placeholder for future functionality - 2 story points
@@ -137,13 +137,13 @@ Definition of Ready: User Acceptance Criteria
 		- Launch new website using Wix
 		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
 		- Add information to website from Github README to flesh out website
-- Links directing users toward library of documents/books suggestive of user standing or progression towards reaching defined goal - 1 story point
+- As a service member/student, there should be a website I can visit that will have various tools promoting finacial education - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will house the links to the materials and add the links to that section. Ensure the links are working.
-- Glossary of Strategy references focused on potential market downturn - 1 story point
+- As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format. - 1 story point
 	- Developer Task
 		- Create a section on the resources page titled "Strategy References" or something of the like that will have the links to the materials describing the strategies.
-- Link or repository for educational material - 1 story point
+- As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information.
 	
@@ -156,7 +156,7 @@ Definition of Ready: User Acceptance Criteria
 		- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John**
 		- Add information to website from Github README to flesh out website - **Completed by Mike**
 		
-- Link or repository for educational material - 1 story point
+- As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information. - **Completed by John**
 			
@@ -178,10 +178,19 @@ Definition of Ready: User Acceptance Criteria
 	- Schedule Stakeholder for Sunday
 - John
 	- Add links to more strategies
-	- Add images to readme of Pair Programming
+	- Add images to README for Pair Programming
 	- Add links to resources explaining how to meet financial goals
 	- Investigate more robust unit tests
 
 ## Unit Tests and Pair Programming
-The unit tests thus far pimarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
+The unit tests thus far primarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task.
+
+
+**Progression of Sprint Burndown Chart**
+TODO
+
+**Product Increment Which is Working Software!**
+The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
+
+[linked text](https://jbddrexel.wixsite.com/resifit)
