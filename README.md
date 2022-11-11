@@ -125,7 +125,7 @@ Definition of Ready: User Acceptance Criteria
 
 
 
-SPRINT 1
+<font size=20>SPRINT 1</font>
 
 Forecast Number of Story Points to Be Completed - 5
 
