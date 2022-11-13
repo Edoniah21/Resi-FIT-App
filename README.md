@@ -178,7 +178,6 @@ Burndown Chart as of 11/11/2022:
 - John
 	- Add links to more strategies
 	- Add images to README for Pair Programming
-	- Add links to resources explaining how to meet financial goals
 	- Investigate more robust unit tests
 			
 ## Questions Answered in Scrum:
@@ -204,9 +203,12 @@ Burndown Chart as of 11/11/2022:
 The unit tests thus far primarly consist of automated HTML requests to various parts of the website that should or should NOT be working.
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the resifit_unittests.py file in our repo and we have included the output of our tests passing successfully below as well.
 
-**TODO: add pair programming screenshot**
+**Pair Programming Screenshot**
+![Screen Shot 2022-11-09 at 8 12 26 PM](https://user-images.githubusercontent.com/43096506/201540512-23f6e1ef-6755-4965-8449-7e32d4453616.png)
 
-**TODO: add screenshot of tests passing**
+**Screenshot of All Tests Passing**!
+[Screen Shot 2022-11-13 at 2 29 50 PM](https://user-images.githubusercontent.com/43096506/201540490-f0dc4948-1bc8-4586-8f77-033c388475fc.png)
+
 
 ## Product Increment Which is Working Software!
 The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
