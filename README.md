@@ -256,8 +256,8 @@ Screenshot of Site Homepage:
 ![image](https://user-images.githubusercontent.com/43096506/201546945-13c16cd2-8ef6-4113-a089-30cae4844eaa.png)
 
 
-**TODO Revise product backlog based on stakeholder feedback**
 **Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
+![image](https://user-images.githubusercontent.com/43096506/201548989-6fac3542-6021-4a39-b68e-23d57cffa989.png)
 
 
 ## Sprint Retrospective
