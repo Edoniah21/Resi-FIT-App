@@ -263,6 +263,7 @@ Screenshot of Site Homepage:
 ## Sprint Retrospective
 -	Action that will make team siginifcantly better: more well defined user stories! Some user stories were too broad and too simliar to other user stories which made breaking them down and prioritizing them difficult. For the next sprint, we will be more specific in our user stories and ensure that developement tasks can be easily made out of them!
 -	New PBI - Ensure exisiting user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific.
-		- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
+	- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
+	- **Our new PBI is at the top of our PB in the above screenshot of the PB following Spring Review!**
 
 **TODO - ensure all PBIs are true user stories**
