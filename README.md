@@ -225,18 +225,25 @@ Screenshot of Site Homepage:
 - As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
 	- Developer Tasks
 		- Create a shell front end that will mostly serve as a placeholder for future functionality
-			- Launch new website using Wix - **Completed by Mike and John. Notes: pretty straight forward. Probably the toughest part was settling on a template that we felt would embody our site's vision. Making a choice when presented with many options is tough!**
-			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John. Notes: the site is flexible and well laid at this point to satisfy the goals of this sprint as well as to serve as a long term solution**
-			- Add information to website from Github README to flesh out website **Complete by Mike. Notes: straight forward, however tedious, copy and pasting given the details were already fleshed out in the README. We wanted to ensure that the information we put forth embodied the values of the Skinner Foundation and great time and care was given to ensure this**
-		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources". - **Completed by John. Notes: time-consuming combing the web for relevant and trustworthy resources for this section.**
+			- Launch new website using Wix - **Completed by Mike and John. 
+				- Notes: pretty straight forward. Probably the toughest part was settling on a template that we felt would embody our site's vision. Making a choice when presented with many options is tough!**
+			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John. 
+				- Notes: the site is flexible and well laid at this point to satisfy the goals of this sprint as well as to serve as a long term solution**
+			- Add information to website from Github README to flesh out website **Complete by Mike. 
+				- Notes: straight forward, however tedious, copy and pasting given the details were already fleshed out in the README. We wanted to ensure that the information we put forth embodied the values of the Skinner Foundation and great time and care was given to ensure this**
+		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources". - **Completed by John. 
+			- Notes: time-consuming combing the web for relevant and trustworthy resources for this section.**
 
 - As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format. - 1 story point
 	- Developer Task
-		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies. - **Completed by John. Notes: Similiar to adding links for financial information and documents, it was time consuming and challenging to find the right content.**
+		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies. - **Completed by John. 
+			- Notes: Similiar to adding links for financial information and documents, it was time consuming and challenging to find the right content.**
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
-		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources". - **Completed by John. Notes: Similiar to adding links for financial information and documents, it was time consuming and challenging to find the right content.**
-		- Test Usable Links and Library of Financial Information - **Completed by John. Notes: Writing the tests to ensure the links are working was tough as well as Wix does not let users change the IDs on Wix generated objects. Further, many websites have safeguards in place to block programmtica HTML acces. Ultimately, I was able to write tests to ensure the links are working.**
+		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources". - **Completed by John. 
+			- Notes: Similiar to adding links for financial information and documents, it was time consuming and challenging to find the right content.**
+		- Test Usable Links and Library of Financial Information - **Completed by John. 
+			- Notes: Writing the tests to ensure the links are working was tough as well as Wix does not let users change the IDs on Wix generated objects. Further, many websites have safeguards in place to block programmtica HTML acces. Ultimately, I was able to write tests to ensure the links are working.**
 
 **Screenshot of Stakeholder Terrell Skinner Attending SprinT Review**
 ![image](https://user-images.githubusercontent.com/43096506/201546945-13c16cd2-8ef6-4113-a089-30cae4844eaa.png)
