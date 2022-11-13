@@ -162,7 +162,7 @@ Burndown Chart as of 11/11/2022:
 - As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
 	- Create a shell front end that will mostly serve as a placeholder for future functionality
 		- Developer Tasks
-			- Launch new website using Wix - **Completed by Mike**
+			- Launch new website using Wix - **Completed by Mike and John**
 			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John**
 			- Add information to website from Github README to flesh out website - **Completed by Mike**
 		
@@ -219,6 +219,22 @@ Screenshot of Site Homepage:
 ![image](https://user-images.githubusercontent.com/43096506/201391883-5bafeca4-d271-4e39-8464-2c6e05c4b920.png)
 
 ## Sprint Review
+- All three sprint backlog items were completed during the sprint. Our site is up and running and can be visited by clicking the link provided in the above section of the README! Below is a list of the items that were completed during the sprint with relevant details regarding the completion of the item.
+
+**Backlog Items for the Sprint**
+- As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
+	- Developer Tasks
+		- Create a shell front end that will mostly serve as a placeholder for future functionality
+			- Launch new website using Wix - **Completed by Mike and John. Notes: pretty straight forward. Probably the toughest part was settling on a template that we felt would embody our site's vision. Making a choice when presented with many options is tough!**
+			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.) - **Completed by Mike and John. Notes: the site is flexible and well laid at this point to satisfy the goals of this sprint as well as to serve as a long term solution**
+			- Add information to website from Github README to flesh out website **Complete by Mike. Notes: straight forward, however tedious, copy and pasting given the details were already fleshed out in the README.**
+		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources".  Ensure the links are working. - **Completed by John. Notes: time-consuming combing the web for relevant and trustworthy resources for this section. Writing the tests to ensure the links are working was tough as well as Wix does not let users change the IDs on Wix generated objects. Further, many websites have safeguards in place to block programmtica HTML acces. Ultinately, i was able to write tests to ensure the links are working.
+- As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format. - 1 story point
+	- Developer Task
+		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies. - **Completed by John**
+- As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
+	- Developer Task
+		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources". - **Completed by John**
 
 **TODO Conduct Sprint Review**
 
