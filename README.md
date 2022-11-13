@@ -266,4 +266,8 @@ Screenshot of Site Homepage:
 	- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
 	- **Our new PBI is at the top of our PB in the above screenshot of the PB following Spring Review!**
 
+- General Sprint Retrospective Notes:
+	- Consider adding additional team members to foster an environment where collaborative ideas can be manifested to enhance the collective project.
+	- Consider adding a silent partner to evaluate performance and our collective work. Often times teams are unable to observe the team's inhibitors due to being so actively engaged in thei work.
+
 **TODO - ensure all PBIs are true user stories**
