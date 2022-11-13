@@ -127,7 +127,7 @@ Definition of Ready: User Acceptance Criteria
 
 ## SPRINT 1
 
-**Forecast Number of Story Points to Be Completed - 5**
+**Forecast Number of Story Points to Be Completed - 3**
 
 **Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. **Only developers participated in the sprint planning.**
 
