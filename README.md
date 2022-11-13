@@ -104,12 +104,12 @@ Product Backlog User Stories
 - As a service member/student, there should be a website I can visit that will have various sources of financial information and documents.
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials.
 - As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format.
-- As a a service member/student, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
-- As a a service member/student, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
-- As a a service member/student, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
-- As a a service member/student, I should have access to different podcasts with varying cadences to help expand my financial knowledge base.
-- As a a service member/student, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
-- As an Non-Profit Organization, the website/application should have a strong social media presence and cultural relativity.
+- As a service member/student, there should be a tool that will project out my savings to a given point in the future based on my expected contributions and antipated returns
+- As a service member/student, there should be a chart that shows me how my savings are progressing over time relative to my initial plan
+- As a service member/student, I should be able to click on links directing me to websites containing information on high value skills and top educational career paths.
+- As a service member/student, I should have access to different podcasts with varying cadences to help expand my financial knowledge base.
+- As a service member/student, there should be a tool that shows me the benefits of dividend stocks and how reinvesting those dividends compounds my return.
+- As a Non-Profit Organization, the website/application should have a strong social media presence and cultural relativity.
 - As a website, the site should have integration with financial advisors and should make contacting a financial advisor simple and straight forward.
 
 
@@ -245,11 +245,20 @@ Screenshot of Site Homepage:
 		- Test Usable Links and Library of Financial Information - **Completed by John** 
 			- **Notes: Writing the tests to ensure the links are working was tough as well as Wix does not let users change the IDs on Wix generated objects. Further, many websites have safeguards in place to block programmtica HTML acces. Ultimately, I was able to write tests to ensure the links are working.**
 
-**Screenshot of Stakeholder Terrell Skinner Attending SprinT Review**
+**Sprint Review Takeaways**
+- Overall, it seemed Terrell was impressed with the intial progress we have made. He like the structure of the site and the general layout. He also liked the content and felt that it was appropriate.
+- We generally are of the consent that these first few sprint should focus on infrastructure building that is flexible and highly customizable as the product vision is proving to be a living, breathing thing.
+- We added two new items to our PB based on our sprint review conversation with Terrell.
+	- As a user, when clicking the Portfolio tab, there should be a drop down focused on reverse engineering any career path, with specific steps on how to follow that career path.
+	- As a user, I should see content that tailors my experience based on my age group and specific experience
+
+**Screenshot of Stakeholder Terrell Skinner Attending Sprint Review**
 ![image](https://user-images.githubusercontent.com/43096506/201546945-13c16cd2-8ef6-4113-a089-30cae4844eaa.png)
 
 
 **TODO Revise product backlog based on stakeholder feedback**
+**Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
+
 
 ## Sprint Retrospective
 -	Action that will make team siginifcantly better: more well defined user stories! Some user stories were too broad and too simliar to other user stories which made breaking them down and prioritizing them difficult. For the next sprint, we will be more specific in our user stories and ensure that developement tasks can be easily made out of them!
@@ -257,6 +266,3 @@ Screenshot of Site Homepage:
 		- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
 
 **TODO - ensure all PBIs are true user stories**
-
-
-
