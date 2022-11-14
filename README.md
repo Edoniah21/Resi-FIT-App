@@ -150,7 +150,7 @@ Definition of Ready: User Acceptance Criteria
 - Our Kanban Board is a YouTrack kanban board. To organize things in some sort of logical manner, we utilitized the "swimlane" feature which is essentially a grouping mechanism for an "epic". In this case, the "epic" is the user story and the card types are one user story card and multiple task cards which symbolize developer tasks. The task cards are linked to the user story card as a way of showing logical ordering of what cards are associated with each other. The user story card will always be at the top of the "done" section with the tasks below it to further signify that the tasks are subitems of the user story. In this sprint, we pulled three user stories into our sprint backlog and thus we have three swim lanes on our Kanban board, one for each user story and it's associated tasks.
 
 **Sprint Kanban Board Link:**
-<a href="https://team-resi-fit.youtrack.cloud/agiles/131-2/132-4?chart&settings&tab=chart">Kanban!</a>
+<a href="https://team-resi-fit.youtrack.cloud/agiles/131-3/current">Kanban!</a>
 
 **Sample Image of Kanban Board:**
 ![image](https://user-images.githubusercontent.com/43096506/201663507-bda3a141-3cca-4f92-b503-de71c6211ac9.png)
