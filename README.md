@@ -129,7 +129,7 @@ Definition of Ready: User Acceptance Criteria
 
 **Forecast Number of Story Points to Be Completed - 3**
 
-**Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estiamting how muych work they can complete in a given time frame (guilty!). Given this information, we fell we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. **Only developers participated in the sprint planning.**
+**Rationale** - Using what we learned from class, we know that humans tend to be overly optimistic when estimating how muych work they can complete in a given time frame (guilty!). Given this information, we feel we have chosen a very achievable amount of work for our first sprint. Further, we know that we can adjsut for future sprints with techniques such as "Yesterday's Weather". We can use this technique to set our sprint forecast for sprint two based on what we were able to accomplish in sprint one. **Only developers participated in the sprint planning.**
 
 **Backlog Items for the Sprint**
 - As a service member/student, there should be a website I can visit that will have various sources of financial information and documents. - 1 story point
@@ -138,16 +138,17 @@ Definition of Ready: User Acceptance Criteria
 			- Launch new website using Wix
 			- Customize layout to generally align with longer term design of site (contact page, about page, placeholders for sprint work, etc.)
 			- Add information to website from Github README to flesh out website
-		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources".  Ensure the links are working.
+		- Create a section on the resources page that will house the links financial information and documents. Title the section "Financial Document Resources".
 - As an Educator, I want to have access to different strategies a service member/student can use to protect their money in a financial downturn in a simplistic teachable format. - 1 story point
 	- Developer Task
 		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies.
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources".
+		- - Test Usable Links and Library of Financial Information
 		
 ## Kanban Board Link:
-- Our Kanban Board is a YouTrack kanban board. To organize things in some sort of logical manner, we utilitized the "swimlane" feature which is essentially a grouping mechanism for an "epic". In this case, the "epic" is the user story and the card types are one user story card and multiple task cards which symbolize developer tasks. The task cards are linked to the user story card as a way of showing logical ordering of what cards are associated with each other. The user story card will always be at the top of the "done" section with the tasks below it to further signify that the tasks are subitems of the user story. In this sprint, we pulled three user stories into our sprint backlog and thus we have three swim lanes on our Kanban board, one for each user story and it's associated tasks.
+- Our Kanban Board is a YouTrack Kanban board. To organize things in some sort of logical manner, we utilitized the "swimlane" feature which is essentially a grouping mechanism for an "epic". In this case, the "epic" is the user story and the cards in the swimlane are one user story card and multiple task cards which symbolize developer tasks. The task cards are linked to the user story card as a way of showing logical ordering of what cards are associated with each other. The user story card will always be at the top of the "done" section with the tasks below it to further signify that the tasks are subitems of the user story. In this sprint, we pulled three user stories into our sprint backlog and thus we have three swim lanes on our Kanban board, one for each user story and it's associated tasks.
 
 **Sprint Kanban Board Link:**
 <a href="https://team-resi-fit.youtrack.cloud/agiles/131-3/current">Kanban!</a>
@@ -241,6 +242,7 @@ Screenshot of Site Homepage:
 	- Developer Task
 		- Create a section on the resources page titled "Protective Strategies" or something of the like that will have the links to the materials describing the strategies. - **Completed by John** 
 			- **Notes: Similiar to adding links for financial information and documents, it was time consuming and challenging to find the right content.**
+			- 
 - As a service member/student, I want to be able to click on links that lead me to trustworthy and educational financial materials - 1 story point
 	- Developer Task
 		- Create a section on the resources page that will have links to this broader category of information. Title it "Educational Sources". - **Completed by John** 
@@ -253,7 +255,7 @@ Screenshot of Site Homepage:
 - We generally are of the consent that these first few sprint should focus on infrastructure building that is flexible and highly customizable as the product vision is proving to be a living, breathing thing.
 - We added two new items to our PB based on our sprint review conversation with Terrell.
 	- As a user, when clicking the Portfolio tab, there should be a drop down focused on reverse engineering any career path, with specific steps on how to follow that career path.
-	- As a user, I should see content that tailors my experience based on my age group and specific experience
+	- As a user, I should see content that tailors my experience based on my age group and specific experience.
 
 **Screenshot of Stakeholder Terrell Skinner Attending Sprint Review**
 ![image](https://user-images.githubusercontent.com/43096506/201546945-13c16cd2-8ef6-4113-a089-30cae4844eaa.png)
@@ -272,5 +274,3 @@ Screenshot of Site Homepage:
 - General Sprint Retrospective Notes:
 	- Consider adding additional team members to foster an environment where collaborative ideas can be manifested to enhance the collective project.
 	- Consider adding a silent partner to evaluate performance and our collective work. Often times teams are unable to observe the team's inhibitors due to being so actively engaged in thei work.
-
-**TODO - ensure all PBIs are true user stories**
