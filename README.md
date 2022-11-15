@@ -262,7 +262,7 @@ Screenshot of Site Homepage:
 
 
 **Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
-![image](https://user-images.githubusercontent.com/43096506/201549138-9c2134f9-3ac0-405b-84cd-59ca29ad1e93.png)
+![image](https://user-images.githubusercontent.com/43096506/201809520-0c3f200a-2013-4e53-8327-1d33b8432263.png)
 
 
 ## Sprint Retrospective
