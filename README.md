@@ -266,13 +266,13 @@ Screenshot of Site Homepage:
 
 
 ## Sprint Retrospective
-- 	Action that will make the team significantly better: better communication. Data is being collected from multiple sources for this project. The team needs to ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated.
+- 	Action that will make the team significantly better: better communication! Data is being collected from multiple sources for this project. The team needs to ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated.
 - 	New PBI - At the beginning of sprint two, the developers recap outside communication, new ideas and improvements that have occurred since the last sprint. This activity will be repeated at the beginning of every scrum.
 	- Acceptance Criteria - the developers have performed the communication recap at the beginning of the next sprint and commit to doing so at the beginning of each scrum in the next sprint.
 -	A second action that will make team siginifcantly better: more well defined user stories! Some user stories were too broad and too simliar to other user stories which made breaking them down and prioritizing them difficult. For the next sprint, we will be more specific in our user stories and ensure that developement tasks can be easily made out of them!
 -	New PBI - Ensure exisiting user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific.
 	- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them.
-	- **Our new PBIs are at the top of our PB in the above screenshot of the PB following Spring Review!**
+- **Our new PBIs are at the top of our PB in the above screenshot of the PB following Spring Review!**
 
 - General Sprint Retrospective Notes:
 	- Consider adding additional team members to foster an environment where collaborative ideas can be manifested to enhance the collective project.
