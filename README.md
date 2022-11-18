@@ -125,7 +125,7 @@ Definition of Ready: User Acceptance Criteria
 
 
 
-## SPRINT 1
+## SPRINT 2
 
 **Forecast Number of Story Points to Be Completed - 3**
 
@@ -276,4 +276,82 @@ Screenshot of Site Homepage:
 
 - General Sprint Retrospective Notes:
 	- Consider adding additional team members to foster an environment where collaborative ideas can be manifested to enhance the collective project.
-	- Consider adding a silent partner to evaluate performance and our collective work. Often times teams are unable to observe the team's inhibitors due to being so actively engaged in thei work.
+	- Consider adding a silent partner to evaluate performance and our collective work. Often times teams are unable to observe the team's inhibitors due to being so actively engaged in their work.
+
+## SPRINT 3
+
+**Forecast Number of Story Points to Be Completed - 3**
+
+**Rationale** - Using the "Yesterday's Weather" technique, we are setting our set our sprint forecast for sprint three based on what we were able to accomplish in sprint two. We completed three items in sprint two so it makes the most sense for us to forecast three items for spring three. Further, based on our evaluation of the work we completed in sprint two, we want to make sure we can really focus on our three items and complete them to the fullest extent. **Only developers participated in pulling user stories into the sprint backlog.**
+
+**Backlog Items for the Sprint**
+
+## Kanban Board Link:
+<a href="https://team-resi-fit.youtrack.cloud/agiles/131-3/current">Kanban!</a>
+
+**Sample Image of Kanban Board:**
+TODO
+
+## Sprint Burndown Chart
+Burndown Chart as of TODO:
+
+## Daily Scrum #3 - TODO
+**Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
+TODO
+
+## Next 24 Hours for the Sprint:
+- Mike
+	-TODO
+- John
+	-TODO
+			
+## Questions Answered in Scrum:
+TODO
+
+## Progression of Sprint Burndown Chart
+**Burndown Chart as of TODO:**
+TODO
+
+**Burndown Chart as of TODO After Updating for Done Activities:**
+TODO
+
+
+## Unit Tests and Pair Programming
+The unit tests thus far primarly consist of varios tests to tes the calulcator funcitonality.
+Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the TODO file in our repo and we have included the output of our tests passing successfully below as well.
+
+**Pair Programming Screenshot**
+TODO
+
+**Screenshot of All Tests Passing**!
+TODO
+
+
+## Product Increment Which is Working Software!
+The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
+
+<a href="https://jbddrexel.wixsite.com/resifit" target="_blank">RESI-FIT!</a>
+
+Screenshot of Site Homepage:
+TIDO
+
+## Sprint Review
+- All three sprint backlog items were completed during the sprint. Our site is up and running and can be visited by clicking the link provided in the above section of the README! Below is a list of the items that were completed during the sprint with relevant details regarding the completion of the item.
+
+**Backlog Items for the Sprint**
+TOOD 
+
+**Sprint Review Takeaways**
+TODO
+
+**Screenshot of Stakeholder Terrell Skinner Attending Sprint Review**
+
+
+**Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
+
+## Sprint Retrospective
+- 	TODO
+- **Our new PBIs are at the top of our PB in the above screenshot of the PB following Spring Review!**
+
+- General Sprint Retrospective Notes:
+TODO
