@@ -125,7 +125,7 @@ Definition of Ready: User Acceptance Criteria
 
 
 
-## SPRINT 2
+## SPRINT 1
 
 **Forecast Number of Story Points to Be Completed - 3**
 
@@ -278,46 +278,67 @@ Screenshot of Site Homepage:
 	- Consider adding additional team members to foster an environment where collaborative ideas can be manifested to enhance the collective project.
 	- Consider adding a silent partner to evaluate performance and our collective work. Often times teams are unable to observe the team's inhibitors due to being so actively engaged in their work.
 
-## SPRINT 3
+## SPRINT 2
 
 **Forecast Number of Story Points to Be Completed - 3**
 
 **Rationale** - Using the "Yesterday's Weather" technique, we are setting our set our sprint forecast for sprint three based on what we were able to accomplish in sprint two. We completed three items in sprint two so it makes the most sense for us to forecast three items for spring three. Further, based on our evaluation of the work we completed in sprint two, we want to make sure we can really focus on our three items and complete them to the fullest extent. **Only developers participated in pulling user stories into the sprint backlog.**
 
 **Backlog Items for the Sprint**
+- Please see Kanban board link for user stories and tasks pulled into the product backlog!
 
 ## Kanban Board Link:
 <a href="https://team-resi-fit.youtrack.cloud/agiles/131-3/current">Kanban!</a>
 
 **Sample Image of Kanban Board:**
-TODO
+![image](https://user-images.githubusercontent.com/43096506/203096953-4774b4eb-773f-4e53-a0a7-4347fcdcbb4e.png)
+
 
 ## Sprint Burndown Chart
-Burndown Chart as of TODO:
+Burndown Chart as of 11/21/2022:
+![image](https://user-images.githubusercontent.com/43096506/203096608-84aecc45-4d07-485c-893c-2ecdb039b36b.png)
 
-## Daily Scrum #3 - TODO
+## Daily Scrum #2 - 11/20/2022
 **Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
-TODO
+- Retrospective - Data is being collected from multiple sources for this project. Ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated. **Completed by Mike and John**
+	- Acceptance Criteria - At the beginning of sprint two, the developers recap outside communication, new ideas and improvements that have occurred since the last sprint. This activity will be repeated at the beginning of every scrum. **Completed by Mike and John**
+	
+- Retrospective - Ensure existing user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific. **Completed by Mike and John**
+	- Acceptance Critieria - the developers agree the user are well definied and developer tasks can easily be derived from them. **Completed by Mike and John**
 
 ## Next 24 Hours for the Sprint:
 - Mike
-	-TODO
+	- Research using AWS as provider for our web server
+	- Ensure all user stories in the backlog are true user stories
 - John
-	-TODO
+	- Create developer tasks for three user stories in the sprint backlog
+	- Research methods for continous deployment with GitHub and AWS. How automated does this need to be? Confirm with Richard on level of automation.
 			
 ## Questions Answered in Scrum:
-TODO
+- Do you see any impediment that prevents the Developers from meeting the Sprint Goal? 
+	- After speaking more with Professor Richard in office hours, we discovered that we have a pretty huge impediment: Wix. We simply are not going to be able to use Wix to meet all the requirements laid out in the grading rubric for the sprint. 
+- What are the impediments? 
+	- Wix is the main impediment for many different reasons:
+		- We can only use Javascript with Wix.
+		- We are not going to be able to do contious integration in a manner consitent with class teachings with Wix.
+		- We won't really be able to have micro scale unit tests with Wix because Wix requires web access to use the resource and our code and tests will not be platform independent if we are relying on Wix.
+		
+- What is your impediment removal plan?
+	- We have to develop this site in a more traditional manner and leave the Wix platform.
+	- This will enable us to develope the code locally, write micro scale unit test and have continous integration and deployment.
+	- The development work for sprint two will be done on the new platform and the existing work will need to be migrated over at some point.
 
 ## Progression of Sprint Burndown Chart
-**Burndown Chart as of TODO:**
-TODO
+**Burndown Chart as of 11/21/2022:**
+![image](https://user-images.githubusercontent.com/43096506/203096608-84aecc45-4d07-485c-893c-2ecdb039b36b.png)
+
 
 **Burndown Chart as of TODO After Updating for Done Activities:**
 TODO
 
 
 ## Unit Tests and Pair Programming
-The unit tests thus far primarly consist of varios tests to tes the calulcator funcitonality.
+The unit tests thus far primarly consist of varios tests to test the calulcator funcitonality.
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the TODO file in our repo and we have included the output of our tests passing successfully below as well.
 
 **Pair Programming Screenshot**
@@ -345,9 +366,10 @@ TOOD
 TODO
 
 **Screenshot of Stakeholder Terrell Skinner Attending Sprint Review**
-
+TODO
 
 **Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
+TODO
 
 ## Sprint Retrospective
 - 	TODO
