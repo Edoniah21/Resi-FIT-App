@@ -332,10 +332,8 @@ Burndown Chart as of 11/21/2022:
 **Burndown Chart as of 11/21/2022:**
 ![image](https://user-images.githubusercontent.com/43096506/203096608-84aecc45-4d07-485c-893c-2ecdb039b36b.png)
 
-
-**Burndown Chart as of TODO After Updating for Done Activities:**
-TODO
-
+**Burndown Chart as of 11/22/2022 After Updating for Done Activities:**
+![image](https://user-images.githubusercontent.com/43096506/204018191-f335bd93-de2b-4d9d-adb5-f8176a058b30.png)
 
 ## Unit Tests and Pair Programming
 The unit tests thus far primarly consist of varios tests to test the calulcator funcitonality.
