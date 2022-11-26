@@ -375,3 +375,32 @@ TODO
 
 - General Sprint Retrospective Notes:
 TODO
+
+## SPRINT 3
+
+**Forecast Number of Story Points to Be Completed - 3**
+
+**Rationale** - We are setting our set our sprint forecast for sprint three based on what we were able to accomplish in sprint two. We completed three items in sprint two so it made the most sense for us to forecast three items for spring three. Further, based on our evaluation of the work we completed in sprint two, we want to make sure we can really focus on our three items and complete them to the fullest extent. **Only developers participated in pulling user stories into the sprint backlog.**
+
+**Backlog Items for the Sprint**
+
+- As an educator, I should be able to project out a variety of defined timelines and goals with students while using the calculator. - 1 Story Point
+
+- As an educator I should be able to demonstrate the effective use of a strategically planned goal and teach the execution of the proposed plan from the outcomes presented by the calculator. - 1 Story Point
+
+- As a student I should be able to directly employ a proposed budgeting plan to achieve a personally defined goal with the structured guidance provided by the calculator. - 1 Story Point
+
+- Please see Kanban board link for user stories and tasks pulled into the product backlog!
+
+**Backlog Items for the Sprint**
+- Please see Kanban board link for user stories and tasks pulled into the product backlog!
+
+## Kanban Board Link:
+
+## Sprint Burndown Chart
+Burndown Chart as of 11/25/2022:
+
+## Daily Scrum #1 - 11/23/2022
+**Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
+- Retrospective - Data is being collected from multiple sources for this project. Ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated. Due to new instructional guidance we had to adjust the construction of our project; effective communication has allowed us to rework new impediments successfully and produce a quality product. **Completed by Mike and John**
+	- Acceptance Criteria - At the beginning of sprint Three, the developers recap outside communication, new ideas and improvements that have occurred since the last sprint. This activity will be repeated at the beginning of every scrum. **Completed by Mike and John**
