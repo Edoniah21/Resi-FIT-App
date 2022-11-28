@@ -293,14 +293,14 @@ Screenshot of Site Homepage:
 **Sample Image of Kanban Board:**
 ![image](https://user-images.githubusercontent.com/43096506/203096953-4774b4eb-773f-4e53-a0a7-4347fcdcbb4e.png)
 
-
 ## Sprint Burndown Chart
 Burndown Chart as of 11/21/2022:
 ![image](https://user-images.githubusercontent.com/43096506/203096608-84aecc45-4d07-485c-893c-2ecdb039b36b.png)
 
 ## Daily Scrum #2 - 11/20/2022
 **Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
-- Retrospective - Data is being collected from multiple sources for this project. Ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated. **Completed by Mike and John**
+- Retrospective - Data is being collected from multiple sources for this project. Ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated. 
+	- Due to new instructional guidance we had to adjust the construction of our project; effective communication has allowed us to remove new impediments successfully and work towards producing a quality product.**Completed by Mike and John**
 	- Acceptance Criteria - At the beginning of sprint two, the developers recap outside communication, new ideas and improvements that have occurred since the last sprint. This activity will be repeated at the beginning of every scrum. **Completed by Mike and John**
 	
 - Retrospective - Ensure existing user stories are specific. Rework any user stories that are too broad and eliminate similiar user stories. Any new user stories must be specific. **Completed by Mike and John**
@@ -340,67 +340,80 @@ The unit tests thus far primarly consist of varios tests to test the calulcator 
 Mike and John pair programmed on the development of the unit tests for which we have included a screenshot of this task below. Our unit tests are in the TODO file in our repo and we have included the output of our tests passing successfully below as well.
 
 **Pair Programming Screenshot**
-TODO
+![Screen Shot 2022-11-27 at 6 37 58 PM](https://user-images.githubusercontent.com/43096506/204170489-dfb8e753-477f-4944-9abc-d17454cea992.png)
 
 **Screenshot of All Tests Passing**!
-TODO
-
+![Screen Shot 2022-11-27 at 7 23 16 PM](https://user-images.githubusercontent.com/43096506/204170519-9c9d04df-b109-4744-bc30-3a82453e807c.png)
 
 ## Product Increment Which is Working Software!
-The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! Both a mobile and desktop version are accesible from the same link.
+The website is up and running and can be found by clicking the below link. Please test our website out and let us know what you think! At this point given that we have migrated over from Wix, the webpage is a simple front end mainly to showcase our financial calclulator backend. Please do try to break it and let us know how it goes!
 
-<a href="https://jbddrexel.wixsite.com/resifit" target="_blank">RESI-FIT!</a>
+<a href="https://resi-fit-quye3.ondigitalocean.app" target="_blank">RESI-FIT!</a>
 
 Screenshot of Site Homepage:
-TIDO
+![Screen Shot 2022-11-27 at 7 26 58 PM](https://user-images.githubusercontent.com/43096506/204168275-173086f7-eae2-4118-b936-77e225567de1.png)
 
 ## Sprint Review
-- All three sprint backlog items were completed during the sprint. Our site is up and running and can be visited by clicking the link provided in the above section of the README! Below is a list of the items that were completed during the sprint with relevant details regarding the completion of the item.
-
-**Backlog Items for the Sprint**
-TOOD 
+**ALL TEAM MEMBERS PARTICIPATED IN SPRINT REVIEW!**
+- All three sprint backlog items were completed during the sprint. Our site is up and running and can be visited by clicking the link provided in the above section of the README!
+- General Sprint Review Notes
+	- Both a future value and payment calculator were added to the website and are working software. The calculator uses FinCalc.py as the backend and we utilized the Flask framework to connect the front end to the back end. 
+	- We created 20 micro scale tests to test FinCalc.py.
+	- Passing values back and forth between the front end and back end was tricky. This required a lot of coversions from strings to int, string to float, etc.
+	- We tried to put as much error handling and input validation in place as possible. We think we did a good job but will be monitoring for bad inputs that slip through the cracks!
+	- The current front end is more of a minimum functionalilty prototype whose purpose is really to showcase the FinCalc back end. We will be looking to style this front end up in the next few sprints. 
+	- Link to the Kanban board detailing the completed work: <a href="https://team-resi-fit.youtrack.cloud/agiles/131-3/current">Kanban!</a>
 
 **Sprint Review Takeaways**
-TODO
+Overall, Tyrell was impressed with the calculator functionality. We demo'd He understands that we needed to switch from Wix to a more traditional framework and realizes that the added functionality of using such a framework will prove worth the while. We have a few takeaways to formulate as user stories for our backlog:
+- Continue to flesh out the caclulator:
+	- Add some commentary / wording that will naturally explain how to use the tools and that will also serve as a financial budgeting educational piece.
+	- Explain some of the terminology and assumptions being used in the calculator with either footnotes, asterisks, etc.
+	- Add a section to explain the impact of taxes on your return:
+		- Add an input slot for a tax rate.
+		- Below the calculated return,  show the after tax return dollar amount to drive home the effect taxes have on your total return.
 
 **Screenshot of Stakeholder Terrell Skinner Attending Sprint Review**
-TODO
+![Screen Shot 2022-11-27 at 6 34 11 PM](https://user-images.githubusercontent.com/43096506/204170444-d6379119-6c0f-4163-a6c4-1e16c6c29f01.png)
 
 **Screenshot of our Revised Product Backlog Following Sprint Review and Stakeholder Feedback!**
-TODO
+![Screen Shot 2022-11-27 at 9 07 26 PM](https://user-images.githubusercontent.com/43096506/204176514-7560bd16-026f-42fe-9bed-3257629bd18c.png)
+
+## Continous Integration
+- We have continous intergration set up with a Main branch in GitHub which we push to locally as we write code. 
+- Code changes are pushed to the main branch by developers and there is no branching. We only push to main and must resolve discrepancises if they exists before sending.
+- Because we only push to main, and we do this frequently as work is completed, there are no long lived code branches.
+- Every time we push our code to GitHub, our code is automatically built and ready to run on our Digital Ocean server, provided all tests pass.
+
+** Evidence that our CI system works properly: **
+- Screenshot of our code being pushed from Pycharm to GitHub
+** TODO **
+
+-Screenshot of Successful Build On Digital Ocean With All Tests Passing:
+** TODO **
+
+## Continous Delivery
+- We have a continous delivery sytem running with Digital Ocean that automatically builds our code when we push to GitHub
+- We have auto deployment set up so that if the build is "green", the software will be automatically deployed to the server.
+	- The build is "green" if all tests pass successfully which Digital Ocean runs when building the software. When the build is green, the software will be deployed to the production server.
+	- The build is "red if all tests DO NOT pass successfully. When the build is red, the software will NOT be deployed to the production server.
+- The below screenshots serve as evidence that our system is working properly. When tests fail, the software is not deployed. When they pass, the software is deployed.
+
+** Evidence that our CD works properly: **
+- Screenshot of GREEN build being deployed to server:
+** TODO **
+
+- Screenshot of RED build NOT being deployed to server:
+** TODO **
+
+-Screenshot of server up and running when either a green build or red build occurs:
+** TODO **
+
+** CI and CD with Pycharm , Github and Digital Ocean is AWESOME!!!**
 
 ## Sprint Retrospective
-- 	TODO
-- **Our new PBIs are at the top of our PB in the above screenshot of the PB following Spring Review!**
+- We would like to make a priority of furthering Mike's knowledge of the HTML framework we are using, Flask, as well as the FinCalc backend written in Python.
+- We would also like to bring John up to speed on the the main goals of Tyrell's foundation to better inform John when developing the site.
+- **Our new PBIs are at the top of our PB in the below screenshot of the PB following Sprint Review!**
+## TODO
 
-- General Sprint Retrospective Notes:
-TODO
-
-## SPRINT 3
-
-**Forecast Number of Story Points to Be Completed - 3**
-
-**Rationale** - We are setting our set our sprint forecast for sprint three based on what we were able to accomplish in sprint two. We completed three items in sprint two so it made the most sense for us to forecast three items for spring three. Further, based on our evaluation of the work we completed in sprint two, we want to make sure we can really focus on our three items and complete them to the fullest extent. **Only developers participated in pulling user stories into the sprint backlog.**
-
-**Backlog Items for the Sprint**
-
-- As an educator, I should be able to project out a variety of defined timelines and goals with students while using the calculator. - 1 Story Point
-
-- As an educator I should be able to demonstrate the effective use of a strategically planned goal and teach the execution of the proposed plan from the outcomes presented by the calculator. - 1 Story Point
-
-- As a student I should be able to directly employ a proposed budgeting plan to achieve a personally defined goal with the structured guidance provided by the calculator. - 1 Story Point
-
-- Please see Kanban board link for user stories and tasks pulled into the product backlog!
-
-**Backlog Items for the Sprint**
-- Please see Kanban board link for user stories and tasks pulled into the product backlog!
-
-## Kanban Board Link:
-
-## Sprint Burndown Chart
-Burndown Chart as of 11/25/2022:
-
-## Daily Scrum #1 - 11/23/2022
-**Items moved from in progress to DONE (COMPLETED IN LAST 24 HOURS):**
-- Retrospective - Data is being collected from multiple sources for this project. Ensure all members of the team are kept abreast of all communication with sources outside the team and that all new thoughts, ideas and improvements are properly communicated. Due to new instructional guidance we had to adjust the construction of our project; effective communication has allowed us to rework new impediments successfully and produce a quality product. **Completed by Mike and John**
-	- Acceptance Criteria - At the beginning of sprint Three, the developers recap outside communication, new ideas and improvements that have occurred since the last sprint. This activity will be repeated at the beginning of every scrum. **Completed by Mike and John**
